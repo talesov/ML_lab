@@ -1,5 +1,5 @@
 # ML_lab
-机器学习课程实验
+Machine learning course lab
 - Exp 1 Linear Regression
 - Exp 2 Logistic Regression and Newton's Method
 - Exp 3 Regularization
